@@ -1,0 +1,295 @@
+div{
+    border-radius: 5%;
+}
+#container{
+    width: 500px;
+    height: 800px;
+    background-color:#5ca7a7;
+}
+#top{
+    width: 99.6%;
+    height: 12%;
+    background-color:#205555;
+    border: 1px solid #edecf5;
+    text-align: center;
+    letter-spacing: 10px;   
+    font-size: 20px;
+}
+#left{
+    float: left;
+    width: 33%;
+    height: 87.5%;
+    margin: 1%;
+    background-color:#f5ebeb;
+    border: 1px solid #e4d4ee;
+    
+}
+#right{
+    float: left;
+    width: 62%;
+    height: 87.5%;
+    margin: 1%;
+    background-color:#ffffff;
+    border: 1px solid #ddc4c4;
+}
+#clear{
+    clear: both;
+}
+#idphoto{
+    float: left;
+    width: 94%;
+    height: 27.1%;
+    background-color:#548b87;
+    border: 1px solid #dbe3f1;
+    
+}
+#contactmethod{
+    float: left;
+    width: 94%;
+    height: 19%;
+    background-color:#e1ebea;
+    border: 1px solid #4c7dd8;
+}
+#individuallabel{
+    float: left;
+    width: 94%;
+    height: 19%;
+    background-color: #fce6e6;
+    border: 1px solid #dee4ee;
+}
+#learningskill{
+    float: left;
+    width: 94%;
+    height: 31%;
+    background-color:#e7e7e1;
+    border: 1px solid #e6dff0;
+}
+#individualinformation{
+    width: 97.5%;
+    height: 26%;
+    background-color: #adc7c5;
+    border: 1px solid #aab3c4;
+
+}
+#educationalbackground{
+    width: 97.5%;
+    height: 24%;
+    background-color:#93b4b1;
+    border: 1px solid #dd2d2d;
+}
+#relevantexperience{
+    width: 97.5%;
+    height: 27%;
+    background-color: #6b7a29;
+    border: 1px solid #a54e55;
+}
+#honorcertificates{
+    width: 97.5%;
+    height: 21%;
+    background-color: #1ad652;
+    border: 1px solid #c71313;
+}
+.individualinformation{
+    background-color: #81dd09;
+    margin: 1%;
+}
+.specificinformation{
+    background-color: #e4e2e4;
+    margin: 1%;
+}
+#photo{
+    
+    border-radius: 10%;
+    float: left;
+    width: 96%;
+    height: 20%;
+    background-color:#f0dddd;
+    border: 1px solid #9bd84c;
+    text-align: left;
+    margin: 2px;   
+}
+#typeface{
+    letter-spacing: 2px;
+    font-size: 17px;
+    font-weight: bold;
+    margin: 1%;
+}
+img{
+    position: relative;
+    width: 147px;
+    height: 128px;
+    border-radius: 50%;
+    margin: 2px;
+}
+#contactmethodsmall{
+    border-radius: 10%;
+    float: left;
+    width: 96%;
+    height: 25%;
+    background-color: #e2c8c8;
+    border: 1px solid #f1c5c5;
+    text-align:left;
+    
+}
+#a{
+    letter-spacing: 2px;
+    font-size: 17px;
+    font-weight: bold;
+    margin: 1%;
+}
+#b{
+    color: black
+}
+#individuallabelsmall{
+    border-radius: 10%;
+    float: left;
+    width: 96%;
+    height: 25%;
+    background-color: #a7d43f;
+    border: 1px solid #216fb9;
+    text-align:left;
+}
+.b{
+    border-radius: 10%;
+    float: left;
+    width: 40%;
+    height: 20%;
+    background-color: #806b0c;
+    border: 1px solid #b9f022;
+    text-align:left;
+    margin: 5px;
+    color: black;
+    font-size: 5px;
+}
+#b5{
+    font-size: 15px;
+    text-align: left;
+
+}
+#learningskillsmall{
+    border-radius: 20%;
+    float: left;
+    width: 96%;
+    height: 20%;
+    background-color: #ee86dd;
+    border: 1px solid #d84c4c;
+    text-align: left;
+}
+#c{
+    letter-spacing: 2px;
+    font-size: 17px;
+    font-weight: bold;
+    margin: 1%;
+}
+.d{
+    border-radius: 10%;
+    float: left;
+    width: 90%;
+    height: 8.7%;
+    background-color: #eeb886;
+    border: 1px solid #aed84c;
+    text-align:left;
+    margin: 2px;
+    font-size: 4px;
+    color: #4c7dd8;
+    color: rgb(0, 0, 0);
+}
+#individualinformationsmall{
+    border-radius: 10%;
+    float: left;
+    width: 96%;
+    height: 40%;
+    background-color: #5fbd48;
+    border: 1px solid #e65edf;
+    text-align:left;
+    margin: 1px;
+
+}
+#e{
+    font-size: 17px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    margin: 1px;
+    text-align: left;
+
+}
+#e1{
+    font-size: 15px;
+    color: black;
+    
+}
+#educationalbackgroundsmall{
+    border-radius: 10%;
+    float: left;
+    width: 96%;
+    height: 35%;
+    background-color: #4988db;
+    border: 1px solid #dbcace;
+    text-align:left;
+    margin: 1px;
+}
+#f{
+    font-size: 15px;
+    color: rgb(0, 0, 0);
+    
+}
+#relevantexperiencesmall{
+    border-radius: 10%;
+    float: left;
+    width: 96%;
+    height: 20%;
+    background-color: #cee6b3;
+    border: 1px solid #dd38b4;
+    text-align:left;
+    margin: 1px;
+}
+#honorcertificatessmall{
+    border-radius: 10%;
+    float: left;
+    width: 96%;
+    height: 20%;
+    background-color: #d1e6b0;
+    border: 1px solid #d4e0df;
+    text-align:left;
+    margin: 1px;
+}
+.g1{
+    font-size: 1px;
+    color: rgb(0, 0, 0);
+    margin-left: -30px;
+}
+.f{
+    font-size: 1px;
+    color: rgb(0, 0, 0);
+    margin-left: -30px;
+}
+
+#over{
+    width: 500px;
+    height: 50px;
+    background-color: white;
+}
+
+#overleft{
+    border-radius: 5px;
+    width: 500px;
+    height: 40px;
+    border: 1px solid #a1ac65;
+    background-color: #aa7daa;
+    margin: 1px;
+    text-align: center;
+}
+#schoolname{
+    font-size: 17px;
+    letter-spacing: 1px;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    text-decoration:none
+}
+#VRWorld{
+    font-size: 17px;
+    letter-spacing: 1px;
+    color:rgb(0, 0, 0);    
+    font-weight: bold;
+    text-decoration:none
+}
